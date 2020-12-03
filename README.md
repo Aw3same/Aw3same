@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aw3same" alt="aw3same" /> </p>
 
-- 🔭 I’m currently working on **Indra**, leading angular projects in a client.
+- 🔭 I’m currently working on **Linguaserve**, leading angular projects.
 
 - 💬 Ask me about **angular and typescript**
 
